@@ -4,4 +4,4 @@
 
 * [Git](./git)
 
-* [마크다운](/.markdonw/)
+* [마크다운](./markdonw/)
